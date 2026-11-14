@@ -54,7 +54,7 @@ incentive-prompts, essential-mcps
 deep-research, cross-agent-memory, humanizer, find-skills
 
 ### Orchestration
-avengers, claude-lead, opencode-worker, ultimate-swarm,
+claude-lead, opencode-worker,
 token-efficiency, ponytail, remotion, remotion-best-practices
 
 ### Other

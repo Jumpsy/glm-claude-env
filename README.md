@@ -64,7 +64,7 @@ Copy them to `~/.claude/skills/` to install.
 - `proxy.mjs` — the GLM-5.2 translation proxy (371 lines)
 - `install.sh` — one-command setup
 - `zshrc-snippet.sh` — shell profile additions
-- `skills/` — Claude Code skills (avengers, claude-lead, impeccable, etc.)
+- `skills/` — Claude Code skills (claude-lead, impeccable, etc.)
 - `hooks/` — RTK token optimizer hook
 - `CLAUDE.md` — global Claude Code instructions
 
